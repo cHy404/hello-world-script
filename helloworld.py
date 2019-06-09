@@ -1,0 +1,1 @@
+print("haha! you shouldnt have just ran some random script! now you're hacked! just kdding idk how to code")
